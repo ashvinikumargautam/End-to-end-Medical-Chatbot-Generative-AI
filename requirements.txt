@@ -8,4 +8,5 @@ langchain-pinecone
 langchain-community
 langchain-openai
 langchain-experimental
+flask
 -e .
